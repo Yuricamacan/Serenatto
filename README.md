@@ -1,4 +1,3 @@
-![Thumbnail](./thumbnail.png)
 # Serenatto Café
 O Serenatto é uma landing page para um café, projetada para apresentar produtos de forma atraente e interativa, proporcionando uma experiência de uso agradável.
 ## Funcionalidades do projeto
